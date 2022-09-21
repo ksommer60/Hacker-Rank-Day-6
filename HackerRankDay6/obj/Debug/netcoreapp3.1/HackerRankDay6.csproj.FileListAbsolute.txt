@@ -1,0 +1,14 @@
+D:\VisualStudios\HackerRankDay6\bin\Debug\netcoreapp3.1\HackerRankDay6.exe
+D:\VisualStudios\HackerRankDay6\bin\Debug\netcoreapp3.1\HackerRankDay6.deps.json
+D:\VisualStudios\HackerRankDay6\bin\Debug\netcoreapp3.1\HackerRankDay6.runtimeconfig.json
+D:\VisualStudios\HackerRankDay6\bin\Debug\netcoreapp3.1\HackerRankDay6.runtimeconfig.dev.json
+D:\VisualStudios\HackerRankDay6\bin\Debug\netcoreapp3.1\HackerRankDay6.dll
+D:\VisualStudios\HackerRankDay6\bin\Debug\netcoreapp3.1\HackerRankDay6.pdb
+D:\VisualStudios\HackerRankDay6\obj\Debug\netcoreapp3.1\HackerRankDay6.csproj.AssemblyReference.cache
+D:\VisualStudios\HackerRankDay6\obj\Debug\netcoreapp3.1\HackerRankDay6.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudios\HackerRankDay6\obj\Debug\netcoreapp3.1\HackerRankDay6.AssemblyInfoInputs.cache
+D:\VisualStudios\HackerRankDay6\obj\Debug\netcoreapp3.1\HackerRankDay6.AssemblyInfo.cs
+D:\VisualStudios\HackerRankDay6\obj\Debug\netcoreapp3.1\HackerRankDay6.csproj.CoreCompileInputs.cache
+D:\VisualStudios\HackerRankDay6\obj\Debug\netcoreapp3.1\HackerRankDay6.dll
+D:\VisualStudios\HackerRankDay6\obj\Debug\netcoreapp3.1\HackerRankDay6.pdb
+D:\VisualStudios\HackerRankDay6\obj\Debug\netcoreapp3.1\HackerRankDay6.genruntimeconfig.cache
